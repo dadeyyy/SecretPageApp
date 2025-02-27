@@ -10,3 +10,7 @@ https://secret-page-app-one.vercel.app/login
 - Sending & Accepting Friend Request
 - Viewing the secret of a Friend
 
+### Project Screenshot
+
+Login:
+![Login](/ss1.png)
